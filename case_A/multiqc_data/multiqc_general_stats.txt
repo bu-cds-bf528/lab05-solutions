@@ -1,0 +1,4 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences	STAR_mqc-generalstats-star-uniquely_mapped_percent	STAR_mqc-generalstats-star-uniquely_mapped
+control_rep1_R1	74.56862878467834	48.0	100.0	18.181818181818183	98530438.0		
+control_rep1_R2	74.00432869616708	49.0	100.0	9.090909090909092	98530438.0		
+star_align						92.64	91278704.0

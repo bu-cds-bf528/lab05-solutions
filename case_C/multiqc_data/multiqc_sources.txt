@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+RSeQC	read_distribution	read_distribution	/projectnb/bf528/admin/development/qc-casebook/results/case_C/rseqc/read_distribution.txt
+STAR	SummaryLog	star_align	/projectnb/bf528/admin/development/qc-casebook/results/case_C/star/star_align_Log.final.out
+FastQC	all_sections	control_rep1_R1_adapters	/projectnb/bf528/admin/development/qc-casebook/results/case_C/fastqc/R1_fastqc.zip
+FastQC	all_sections	control_rep1_R2_adapters	/projectnb/bf528/admin/development/qc-casebook/results/case_C/fastqc/R2_fastqc.zip

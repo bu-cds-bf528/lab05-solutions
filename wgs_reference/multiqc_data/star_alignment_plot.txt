@@ -1,0 +1,2 @@
+Sample	Uniquely mapped	Mapped to multiple loci	Mapped to too many loci	Unmapped: too short	Unmapped: other
+star_align	53922700.0	2269911.0	446103.0	4853029.0	809877.0

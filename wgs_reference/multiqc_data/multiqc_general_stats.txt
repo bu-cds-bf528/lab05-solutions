@@ -1,0 +1,4 @@
+Sample	star-total_reads	star-mapped	star-mapped_percent	star-uniquely_mapped	star-uniquely_mapped_percent	star-multimapped	fastqc-percent_duplicates	fastqc-percent_gc	fastqc-avg_sequence_length	fastqc-median_sequence_length	fastqc-percent_fails	fastqc-total_sequences
+case_G_R1_reads							6.324370602674222	41.0	100.0	100	9.090909090909092	62.30162
+case_G_R2_reads							5.6225695577073225	41.0	100.0	100	9.090909090909092	62.30162
+star_align	62.30162	56.192611	90.19	53.9227	86.55	2.269911						
